@@ -7,3 +7,5 @@ Some text
 More text
 
 ## Conflict
+
+## EDIT
