@@ -5,3 +5,5 @@ Some text
 ## Local Development
 
 More text
+
+## Conflict
