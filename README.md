@@ -9,3 +9,5 @@ More text
 ## Conflict
 
 ## EDIT
+
+## EDIT FROM BRANCH
